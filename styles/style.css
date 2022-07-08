@@ -16,7 +16,7 @@ h4{
     margin-right: auto;
     border-collapse: collapse;
 }
-table{
+.text, .code{
     margin-top: 50px;
     caption-side: bottom;
     margin-left: auto;
